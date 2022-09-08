@@ -60,8 +60,8 @@ window.initMap = function() {
     map: map,
     clickable: true,
     icon: image,
-    title: 'Brooklyn',
-    position: brooklyn
+    title: 'Payariq',
+    position: payariq
   });
 
   marker.addListener('click', function() {
